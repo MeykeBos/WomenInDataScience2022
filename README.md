@@ -3,7 +3,7 @@
 The added files in this repository provide an idea of our approach (Brenda Loznik and myself) towards the WomenInDataScience Datathon 2022 on Kaggle. 
 I have also added the powerpoint presentation of our final presentation during the International Women's Day on the 8th of March and will add the link to the video on youtube once it is online.
 
-We started with EDA: WIDS_eda
+We started with EDA: WIDS_eda and Climate_EDA
 
 DATA PIPELINE<br>
 1 clean_data<br>
