@@ -1,6 +1,6 @@
 # WomenInDataScience2022
 
-The added files in this repository provide an idea of our approach towards the WomenInDataScience Datathon 2022 on Kaggle
+The added files in this repository provide an idea of our approach (Brenda Loznik and myself) towards the WomenInDataScience Datathon 2022 on Kaggle
 
 DATA PIPELINE<br>
 1 clean_data<br>
